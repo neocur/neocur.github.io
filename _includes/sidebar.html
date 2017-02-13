@@ -5,7 +5,7 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <br><p>{{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -25,14 +25,15 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <!--    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+    <!--    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+    <a class="sidebar-nav-item" href="https://https://www.flickr.com/photos/paulseo" target="_blank">Flickr</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      {{ site.time | date: '%Y' }}. All images on this website are subject to Copyright &copy; by Paul Seo
     </p>
   </div>
 </div>
