@@ -3,7 +3,7 @@ layout: post
 title: Long exposure time for Reciprocity Failure
 ---
 
-[Reciprocity Failure 상반칙불궤](https://en.wikipedia.org/wiki/Reciprocity_(photography))에 의한 노출시간 증가에 대해 정리하고자 한다.  특히, 자주 사용하는 **ILFORD HP5 Plus** 와  **PANF Plus** 의 경우를 참고하도록 한다.
+[Reciprocity Failure 상반칙불궤](https://en.wikipedia.org/wiki/Reciprocity_(photography))에 의한 노출시간 증가에 대해 정리하고자 한다.   특히, 자주 사용하는 **ILFORD HP5 Plus** 와  **PANF Plus** 의 경우를 참고하도록 한다.
 
 ### Exposure Time : 250 seconds with ILFORD film
 
@@ -23,6 +23,7 @@ ND필터 또는 흑백필터를 사용하여 장노출 사진을 찍을 경우, 
 - 10 STOP : 192 sec
 - 9 STOP : 68 sec
 - 6 STOP :  3 sec
+
 #### 1/15 second
 - 10 STOP : 540 sec
 - 9 STOP : 192 sec
