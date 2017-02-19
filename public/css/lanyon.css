@@ -65,7 +65,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
-
 /*
  * Container
  *
@@ -307,6 +306,11 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   margin-bottom: 4em;
+}
+
+.post img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Blog post or page title */
