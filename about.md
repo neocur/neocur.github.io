@@ -7,6 +7,8 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
+[url=https://flic.kr/p/Lg9yAf][img]https://c1.staticflickr.com/9/8353/29051115762_da67600b23_b.jpg[/img][/url][url=https://flic.kr/p/Lg9yAf]Gasan Mountain[/url] by [url=https://www.flickr.com/photos/paulseo/]PAUL SEO[/url], on Flickr
+
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
