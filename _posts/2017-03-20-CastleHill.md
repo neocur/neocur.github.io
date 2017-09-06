@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TE WAIPOUNAMU|NEW ZEALAND 2017: DAY ONE
+title: Castle Hill, 20th Mar.
 ---
-
-Castle Hill
 
 날씨가 좋지않아 계획했던 루트를 변경한다. Tekapo 날씨가 흐려 애초 돌아오는 길로 계획했던 Arthur's Pass 로 먼저 향한다. 가는 길 중간에 볼 수 있는 Castle Hill.
 
