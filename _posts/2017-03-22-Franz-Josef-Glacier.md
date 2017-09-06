@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Franz Josef Glacier, 22nd Mar.
+title: TE WAIPOUNAMU|NEW ZEALAND 2017: DAY THREE
 ---
 
 Franz Josef Glacier
