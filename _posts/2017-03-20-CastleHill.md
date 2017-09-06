@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TE WAIPOUNAMU|NEW ZEALAND 2017: DAY ONE"
+title: "TE WAIPOUNAMU 2017: DAY ONE"
 ---
 
 Castle Hill
