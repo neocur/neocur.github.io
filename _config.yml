@@ -22,3 +22,6 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/neocur
+
+# Google Analytics
+google_analytics_id: UA-106147874-1
