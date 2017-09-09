@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Processing a Black & White film
+title: Processing a Black &amp; White film
 ---
 
 흑백현상에 사용할 현상액과 정착액에 대해 정리하고자 한다.
