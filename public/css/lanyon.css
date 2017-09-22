@@ -33,6 +33,7 @@
  *
  * Update the foundational and global aspects of the page.
  */
+@import url('https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400')
 
 /* Prevent scroll on narrow devices */
 html,
