@@ -35,6 +35,8 @@
  * Update the foundational and global aspects of the page.
  */
 
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -47,7 +49,6 @@ body {
   padding: 0;
 }
 
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 html {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 16px;
