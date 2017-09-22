@@ -54,6 +54,7 @@ html {
 }
 @media (min-width: 38rem) {
   html {
+    font-family: 'Nanum Gothic', Arial, sans-serif;
     font-size: 18px;
   }
 }
