@@ -33,7 +33,7 @@
  *
  * Update the foundational and global aspects of the page.
  */
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400|Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400|Open+Sans:300,400);
 @import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 /* Prevent scroll on narrow devices */
@@ -46,9 +46,16 @@ html {
   font-family: 'Nanum Gothic', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h1 {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
   color: #313131;
   letter-spacing: -.025rem;
 }
